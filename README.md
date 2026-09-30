@@ -1,17 +1,11 @@
-# PROYECTO HR
-- este es mi primer cambio
 
-## PREGUNTAS DE NEGOCIO
-- ¿Qué información necesito de la base de datos para responder las preguntas del cliente?
+![HR Analytics](./picture/baneer%20vertical.png)
+# Proyecto SQL: sell ventas 
+## Resumen (Overview)
+_El personal de recursos humanos de **GreatPlaceToWork** desea mejorar el desempeño, aumentar la retención y mejorar la satisfacción laboral general. Sin embargo, no cuentan con una visión clara de los datos pertinentes de los empleados. Mi objetivo es utilizar **SQL** dentro de **SQL Server Management Studio**, analizando sus datos para proporcionar recomendaciones al departamento de RR.HH. que faciliten mejoras exitosas._
+## Mi priemra query 
 
-## CONSULTAS A LA BASE DE DATOS
-LOS ORIGEN DES DATOS
-
-## 10 PREGUNTAS A MI BASE DE DATOS EMPLEADOS
-1. pregunta 1
-2. Pregunta 2
-
-# como importar una imagen 
-!['Imagen'](/microsoft-sql-server.jpg)
-
-!['Banner'](./Image20260929230503.png)
+```sql
+select *
+from clientes
+```
